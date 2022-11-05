@@ -1,2 +1,2 @@
 print('hello from sasha')
-print("создаю конфликт")
+print("тоже создаю конфликт")
